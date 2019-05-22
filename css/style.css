@@ -871,6 +871,8 @@ button.button {
 .maps {
     padding-top: 50px;
     margin-top: 40px;
+    background: url(grid.jpg);
+    background-size: cover;
     box-shadow: 0px 3px 16px 0px #0000005b
 }
 
